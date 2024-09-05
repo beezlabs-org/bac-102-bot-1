@@ -1,0 +1,150 @@
+{
+  "hiveBotId": "8cdda32f-d8f3-480c-af93-d51580d31abc",
+  "executionId": "00000000-0000-0000-0000-000000000000",
+  "identityList": [],
+  "connectionParams": null,
+  "proposedBotInputs": {
+    "language": {
+      "value": "EN",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "server_name": {
+      "value": "Q00 [bacsapq00.gva.data]",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "client": {
+      "value": "100",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "beekeeper_url": {
+      "value": "https://tulip-dev.beezlabs.app/",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "dmscred": {
+      "value": "tulipGeneric",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "sapcreds": {
+      "value": "sapQ00",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "transactionName": {
+      "value": "FBL1N",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "variantName": {
+      "value": "SOXPTP012",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "startDate": {
+      "value": "2024-01-01",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "endDate": {
+      "value": "2024-01-31",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "lineItemStatus": {
+      "value": "All items",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "layoutName": {
+      "value": "vendor #",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "inputOverviewScreen_filename": {
+      "value": "inputoverviewscreen.png",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "companyCodeOverviewScreen_filename": {
+      "value": "companyCodeOverviewScreen.png",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "manualEntitiesCompanyCode": {
+      "value": [
+        1350,
+        1820,
+        3457,
+        3600,
+        4155,
+        345,453
+      ],
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "outputFileName": {
+      "value": "EXPORT_COMPANYCODES.XSLX",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "companyCodeSampleCount": {
+      "value": "3",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "companycode": {
+      "value": [
+        1350,
+        1820,
+        3457,
+        3600,
+        4155,
+        5624,
+        1801,
+        1870,
+        2601,
+        3290,
+        3900,
+        3901,
+        4100,
+        4400,
+        5271,
+        5280,
+        5401,
+        5405,
+        5620,
+        5655,
+        5701,
+        5707,
+        7320,
+        7325,
+        8128
+      ],
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+
+    }
+  }
+}

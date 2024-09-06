@@ -1,0 +1,60 @@
+{
+  "hiveBotId": "8cdda32f-d8f3-480c-af93-d51580d31abc",
+  "executionId": "00000000-0000-0000-0000-000000000000",
+  "identityList": [],
+  "connectionParams": null,
+  "proposedBotInputs": {
+    "manualEntitiesCompanyCode": {
+      "value": [
+        1350,
+        1820,
+        3457,
+        3600,
+        4155,
+        345,453
+      ],
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "companyCodeSampleCount": {
+      "value": "3",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "companycode": {
+      "value": [
+        1350,
+        1820,
+        3457,
+        3600,
+        4155,
+        5624,
+        1801,
+        1870,
+        2601,
+        3290,
+        3900,
+        3901,
+        4100,
+        4400,
+        5271,
+        5280,
+        5401,
+        5405,
+        5620,
+        5655,
+        5701,
+        5707,
+        7320,
+        7325,
+        8128
+      ],
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+
+    }
+  }
+}

@@ -33,6 +33,7 @@ class BotLogic(Bot):
 
         except Exception as error:
             self.log.error(f"Error initializing BotLogic: {error}")
+            raise error
 
     def main(self):
         """Bot Logic code"""

@@ -4,12 +4,6 @@
   "identityList": [],
   "connectionParams": null,
   "proposedBotInputs": {
-    "language": {
-      "value": "EN",
-      "type": 0,
-      "objectTypeName": "",
-      "flowVariable": false
-    },
     "manualEntitiesCompanyCode": {
       "value": [
         1350,
